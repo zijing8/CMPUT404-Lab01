@@ -1,0 +1,17 @@
+Question 1: What is your GitHub URL?
+https://github.com/zijing8.
+
+Question 2: What version is the requests library installed on the system? Is there none at all? Or is it already installed?
+requests libary version is: 2.25.1.
+
+Question 3: Is requests installed? If so, what version is the requests library installed in the virtualenv?
+requests libary version is: 2.31.0.
+
+Question 4: What is the difference between the virtual environment and the not virtual environment python?
+the version is different, the venv have version 2.31.0 of requests, and the non virtual environment have version 2.25.1 of requests.
+
+Question 5: What status code is returned for http://google.com ? What URL must you visit to get a 200 status code?
+the status code is 301, for 200 status code visit http://www.google.com/.
+
+Question 6: What status code is returned for http://google.com/teapot? Is it the one returned by curl -i or curl -iL? What happens when you curl http://www.google.com/teapot?
+the status code is 301, which is the one returned by curl -i. when you curl http://www.google.com/teapot, you get error 418.
