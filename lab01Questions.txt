@@ -15,3 +15,9 @@ the status code is 301, for 200 status code visit http://www.google.com/.
 
 Question 6: What status code is returned for http://google.com/teapot? Is it the one returned by curl -i or curl -iL? What happens when you curl http://www.google.com/teapot?
 the status code is 301, which is the one returned by curl -i. when you curl http://www.google.com/teapot, you get error 418.
+
+Question 7: What changed in the output of https://webdocs.cs.ualberta.ca/~hindle1/1.py when you used -X POST? What is this method useful for?
+
+
+Question 8: What is the raw URL to your Python script on GitHub?
+https://raw.githubusercontent.com/zijing8/CMPUT404-Lab01/master/lab01.py
